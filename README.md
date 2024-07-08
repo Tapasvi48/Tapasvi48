@@ -13,15 +13,11 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/tapasvi-arora-558092144/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:Tapasviarora2002@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" height="30" width="40" />
-  </a>
-  
 </p>
 
 
 ## Skills - Language and tools
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,nodejs,expressjs,mongo,tailwind,git,github,vscode,linux,ts,postman,mysql.&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,nodejs,expressjs,mongo,tailwind,git,github,vscode,linux,ts,postman,mysql.&theme=light)]()
 <!--social stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tapasvi48&show_icons=true&locale=en&layout=compact" alt="Tapasvi48" /></p>
 
