@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Tapasvi48
-- 👀 I’m interested in software development
-- 🌱 I’m currently a student in nit kurukshetra
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me-   email:Tapasviarora2002@gmail.com
+
+
+<h1 align="center">Hi 👋, I'm Tapasvi!</h1>
+<h3 align="center">A passionate software developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tapasvi48&label=Profile%20views&color=0e75b6&style=flat" alt="Tapasvi48" /> </p>
+
+- 🌱 Full Stack Web Developer 
+
+- 💬 Ask me about **Creating Backend for Complex Web Applications**
+
+- 📫 How to reach me **Tapasviarora2002@gmail.com**
+
+- ⚡ Fun fact **: Currently final year at NIT Kurukshetra**
+
 
 <!---
 Tapasvi48/Tapasvi48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
